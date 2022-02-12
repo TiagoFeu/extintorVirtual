@@ -1,3 +1,5 @@
+# Um jogo para os bombeiros!
+
 import sys
 import pygame
 import gameSprites
